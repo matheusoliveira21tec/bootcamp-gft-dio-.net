@@ -20,7 +20,7 @@ namespace RPG.src.Entities
             return this.Name + " " + this.HeroType + " " + this.Level;
         }
         public virtual string Attack(){
-            return this.Name + " atacou com sua espada";
+            return this.Name + " atacou com suas espadas";
         }
 
     }
